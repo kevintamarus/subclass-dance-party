@@ -1,5 +1,7 @@
 body, html{
   height:100%;
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/bb/ed/90/bbed90cdf2765934f619c1b0499bb364.jpg");
+background-size: cover;
 }
 body{
   margin: 0px;
@@ -21,7 +23,6 @@ body, a:link, a:visited, a:active{
   background-color: #777;
 }
 .dancer{
-  border:10px solid red;
-  border-radius:10px;
+/**/
   position:absolute;
 }
