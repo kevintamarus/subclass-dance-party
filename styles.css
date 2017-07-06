@@ -13,14 +13,23 @@ body, a:link, a:visited, a:active{
 }
 .title, .addDancerButton{
   padding:5px 12px;
-  float:right;
 }
 .topbar{
-  height:32px;
-  background-color: #555;
+  height:75px;
+  background-color: black;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 70px;
+  vertical-align: middle;
+
 }
 .title{
-  background-color: #777;
+  background-color: black;
+  margin-top: 10px;
+  font-weight: 600;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 65px
 }
 .dancer{
 /**/
